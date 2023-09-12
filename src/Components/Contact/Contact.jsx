@@ -41,7 +41,7 @@ export default function Contact() {
           <div className="col-12 mt-5 d-flex justify-content-center align-items-center">
             <div className={``}>
               <div>
-                <h2 className={`mt-5 ${style.contactTitle}`}>CONATCT SECTION</h2>
+                <h2 className={`mt-5 ${style.contactTitle}`}>CONTACT SECTION</h2>
               </div>
 
               <div className={`d-flex justify-content-center align-items-center mt-3`}>
