@@ -1,0 +1,33 @@
+.contactTitle{
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #2C3E50;
+}
+
+.contactLineDiv{
+    height: 0.25rem;
+    width: 5rem;
+    background-color:#2C3E50;
+}
+
+.contactLineDivIcon {
+    color: #2C3E50;
+}
+
+.inputsLabel{
+    color:#1ABC9C;
+    position: relative; 
+    top: 2.5rem;
+    transition: all 0.5s;
+}
+
+.submitBtn{
+    background-color: #1abc9c;
+}
+.submitBtn:hover{
+    background-color: #1abc9c;
+}
+
+.inputEdit{
+    box-shadow: none !important;
+}

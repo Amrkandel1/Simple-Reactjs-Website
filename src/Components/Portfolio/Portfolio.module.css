@@ -1,0 +1,58 @@
+.portfolioTitle h3{
+    font-size: 2.5rem;
+    margin:0rem 0rem 1rem;
+    font-weight: 700;
+    color:#2C3E50;
+}
+
+.portfolioLineDiv{
+    height: 0.25rem;
+    width: 5rem;
+    background-color:#2C3E50;
+}
+
+.portfolioLineDivIcon {
+    color: #2C3E50;
+}
+
+.imageLayer i{
+    font-size: 5.9375rem;
+    color: #ffff;
+}
+
+.imageHover{
+    position: relative;
+    border-radius: 0.625rem;
+}
+
+.imageLayer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    transition: all 0.7s;
+    background-color: #29B197;
+    cursor: pointer;
+}
+
+.imageHover:hover .imageLayer{
+    opacity: 0.95;
+}
+
+.imageScreen{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 10000;  
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.imageScreenSize{
+    width: 37.5rem;
+    border-radius: 0.625rem;
+}
+

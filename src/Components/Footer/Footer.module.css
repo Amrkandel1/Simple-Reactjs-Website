@@ -1,0 +1,15 @@
+.footerPart1{
+    background-color: #2C3E50;
+}
+
+.footerIcons{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid #ffff;
+    cursor: pointer;
+}
+
+.footerPart2{
+    background-color: #1A252F;
+}

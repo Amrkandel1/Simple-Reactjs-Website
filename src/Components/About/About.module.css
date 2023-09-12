@@ -1,0 +1,13 @@
+.aboutSection{
+    background-color: #1ABC9C;
+}
+
+.aboutSectionLineDiv{
+    height: 0.25rem;
+    width: 5rem;
+    background-color: #FFFFFF;
+}
+
+.aboutSectionParag{
+    padding:0rem 0.75rem 0rem 3rem;
+}
