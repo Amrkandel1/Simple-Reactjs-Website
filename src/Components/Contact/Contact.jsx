@@ -35,8 +35,8 @@ export default function Contact() {
 
 
   return (
-    <section>
-      <div className="container w-100 vh-100 ">
+    <section className='mb-5 py-5'>
+      <div className="container w-100">
         <div className="row mt-5">
           <div className="col-12 mt-5 d-flex justify-content-center align-items-center">
             <div className={``}>
@@ -55,7 +55,7 @@ export default function Contact() {
         </div>
 
       <div className={`container mt-5  w-75  m-auto`}>
-      <div className="row ">
+      <div className="row py-5">
           <div className="col-12">
                 
 
@@ -92,7 +92,7 @@ export default function Contact() {
 
 
 
-              <button className={`btn mt-4 text-white ${style.submitBtn}`}> send Message </button>
+              <button className={`btn mt-4 text-white mb-4 ${style.submitBtn}`}> send Message </button>
 
           </div>
         </div>
