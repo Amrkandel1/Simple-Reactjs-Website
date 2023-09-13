@@ -4,6 +4,12 @@
     color: #2C3E50;
 }
 
+@media screen and (max-width:500px){
+    .contactTitle{
+        font-size: 1.875rem;
+    }
+}
+
 .contactLineDiv{
     height: 0.25rem;
     width: 5rem;
