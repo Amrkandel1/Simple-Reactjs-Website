@@ -16,7 +16,7 @@ export default function Home() {
                  
               <div className='d-flex justify-content-center align-items-center'>
                 <div>
-                  <h2 className={`mt-5  ${style.homeTitle}`}>START FRAMEWORK</h2>
+                  <h2 className={`mt-5 text-center ${style.homeTitle}`}>START FRAMEWORK</h2>
 
                   <div className={`d-flex justify-content-center align-items-center mt-3`}>
                      <div className={`${style.lineDiv} me-3`}></div>
